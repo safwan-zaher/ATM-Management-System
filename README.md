@@ -2,7 +2,7 @@
 
 The **ATM Management System** is an SQL-based project designed to simulate and manage the core functionalities of an Automated Teller Machine (ATM) system. It focuses on creating a secure, efficient, and scalable backend to support banking operations like managing user accounts, processing transactions, and generating transaction logs.
 
----
+
 
 ## Features
 
@@ -26,7 +26,7 @@ The **ATM Management System** is an SQL-based project designed to simulate and m
 - Utilizing triggers to log transactions and enforce real-time data validation.
 - Implementing functions for frequently used operations, enhancing system efficiency.
 
----
+
 
 ## System Workflow
 
@@ -36,7 +36,7 @@ The **ATM Management System** is an SQL-based project designed to simulate and m
 - **Transaction History**: Provides a detailed log of transactions for each account.
 - **ATM Management**: Tracks ATM-specific data, such as available cash and maintenance logs.
 
----
+
 
 ## Tech Stack
 
@@ -49,7 +49,7 @@ The **ATM Management System** is an SQL-based project designed to simulate and m
   - Triggers
 - **Database Management System**: Oracle/MySQL/PostgreSQL *(modify based on your DBMS)*
 
----
+
 
 ## Installation
 
